@@ -132,7 +132,7 @@ Not everything was perfect on the first pass. Post-launch we found seven issues:
 
 The game is live at [fight.dx.deepgram.com](https://fight.dx.deepgram.com). Challenge a friend via room code, queue into ELO matchmaking, or yell at an AI opponent.
 
-The entire codebase is at [github.com/deepgram/stick-fighter](https://github.com/deepgram/stick-fighter). Built with Claude Code, Deepgram, Litestar, and an unreasonable amount of enthusiasm.
+The entire codebase is at [github.com/deepgram-devs/stick-fighter](https://github.com/deepgram-devs/stick-fighter). Built with Claude Code, Deepgram, Litestar, and an unreasonable amount of enthusiasm.
 
 ---
 
